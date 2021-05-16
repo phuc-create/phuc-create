@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 <!--
-**phuc-create/phuc-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**phuc-create/phuc-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## I'm a Third-years student, Undergraduate!
 - 🔭 I’m a student ungraduate.
 - 🌱 I’m currently learing about web developer and I wanna become a fullstack web developer in the future!
 - 👯 I’m looking to way to make professionally websites and improve some of skill about programming language!
