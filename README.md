@@ -45,5 +45,5 @@
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-create&layout=compact&theme=radical&langs_count=9)](https://github.com/phuc-create/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-create&layout=compact&theme=radical&langs_count=9&hide=css,scss,php,html,hack)](https://github.com/phuc-create/github-readme-stats)
 
