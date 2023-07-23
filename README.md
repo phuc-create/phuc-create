@@ -19,3 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuc-create&layout=compact&theme=radical&langs_count=9&hide=css,scss,php,html,hack)](https://github.com/phuc-create/github-readme-stats)
 
+<a href="https://app.daily.dev/sam0006"><img src="https://api.daily.dev/devcards/7895586dbb944004a1f7ffde5d41f016.png?r=29q" width="250" alt="Sam's Dev Card"/></a>
