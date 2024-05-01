@@ -1,13 +1,14 @@
 ### A person who likes to create memories 👋
-<a href="https://github.com/phuc-create" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/NHP1492" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/sam_here_n" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<div style="width:100%,display: flex"><br>
+  <div align="center">
+    <a href="https://github.com/phuc-create" target="_blank"> <img height="30" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/NHP1492" target="_blank"> <img height="30" src="https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/nguyen-huu-phuc-23268a218" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:phuc82908@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/sam_here_n">
+      <img height="30" src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div>
+</div>
 
 <!--
 **phuc-create/phuc-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
