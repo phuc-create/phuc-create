@@ -1,6 +1,6 @@
 ### A person who likes to create memories 👋
 <div style="width:100%,display: flex"><br>
-  <div align="center">
+  <div align="left">
     <a href="https://github.com/phuc-create" target="_blank"> <img height="30" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/NHP1492" target="_blank"> <img height="30" src="https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/nguyen-huu-phuc-23268a218" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
